@@ -1,12 +1,4 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: paul
- * Date: 15-6-15
- * Time: 8:19
- */
-
-namespace Observe;
+<?php namespace Observe;
 
 
 abstract class Observable implements CallableEvent
